@@ -10,7 +10,6 @@ Galley App make with react.js
   1. HTML
   2. CSS Module
   4. React-bootstrap 
-     1. icon
   6. ES6
   7. React
       1. Jsx
